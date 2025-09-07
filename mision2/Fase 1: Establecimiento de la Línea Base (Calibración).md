@@ -7,4 +7,4 @@ Registro de Potencia Inicial (P_in): Mida y registre la potencia exacta de la se
 **frecuencia:** 100MHz
 **potencia conocida:** -14.85dBm
 
-![potencia inicial](Registro_de_Potencia_Inicialg)
+![potencia inicial](inicial.jpeg)
