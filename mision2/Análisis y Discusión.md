@@ -1,9 +1,11 @@
 ## Análisis y Discusión:
 
 **Identificación de anomalias:** Basado en la tabla de resultados, identifique claramente cuál es el cable "que mayor atenuación presenta" y justifique por qué su atenuación es significativamente mayor.
+
 De acuerdo con los resultados obtenidos, el **Cable 2 (136 ft)** es el que presenta la mayor atenuación en todas las frecuencias evaluadas. Mientras que la atenuación teórica se encuentra en un rango de 4 a 23 dB según la frecuencia. Esta diferencia tan significativa evidencia que el Cable 2 no solo tiene pérdidas propias de su longitud y frecuencia, sino que además presenta un deterioro.
 
 **Análisis Causa-Raíz:** ¿Qué posibles fallas físicas en un cable o conector podrían causar una atenuación tan alta?
+
 Las atenuaciones tan elevadas registradas en el Cable 2 pueden explicarse por fallas físicas en el cableado o en los conectores. Entre las causas más probables se incluyen conectores defectuosos o mal instalados, daño mecánico en el cable (dobleces, aplastamientos o cortes internos), degradación del dieléctrico por envejecimiento o humedad, esto explicaría la diferencia encontrada. 
 
 (Si se realizó el reto avanzado): Analiza cómo cambió la atenuación de los cables al aumentar la frecuencia. ¿Es un comportamiento esperado? ¿Por qué?
