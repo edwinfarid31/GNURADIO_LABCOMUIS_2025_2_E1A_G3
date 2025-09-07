@@ -8,8 +8,10 @@ Repetición de Pruebas: Repita los pasos 1 y 2 para todos los demás cables coax
 ### DATOS 
 **cable coaxial 80ft**
 potencia salida= -19.36dBm
+![Cable 80ft](cable_coaxial_80ft.jpeg)
 
 
 **cable coaxial 136ft**
 potencia salida= -22.94dBm
+![Cable 136ft](cable_coaxial_136ft.jpeg)
 
