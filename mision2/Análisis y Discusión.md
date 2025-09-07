@@ -8,7 +8,7 @@ De acuerdo con los resultados obtenidos, el **Cable 2 (136 ft)** es el que prese
 
 Las atenuaciones tan elevadas registradas en el Cable 2 pueden explicarse por fallas físicas en el cableado o en los conectores. Entre las causas más probables se incluyen conectores defectuosos o mal instalados, daño mecánico en el cable (dobleces, aplastamientos o cortes internos), degradación del dieléctrico por envejecimiento o humedad, esto explicaría la diferencia encontrada. 
 
-(Si se realizó el reto avanzado): Analiza cómo cambió la atenuación de los cables al aumentar la frecuencia. ¿Es un comportamiento esperado? ¿Por qué?
+
 
 **Conclusiones**
 
