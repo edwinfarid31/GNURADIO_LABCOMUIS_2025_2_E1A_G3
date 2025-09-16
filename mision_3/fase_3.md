@@ -4,6 +4,17 @@
 
 **Análisis Comparativo:** Complete la tabla con las imágenes obtenidas y añada descripciones técnicas. La tabla debe permitir una comparación directa de:
 
-        El efecto de una señal moduladora seno vs. moduladora onda cuadrada en el dominio de la frecuencia.
+- El efecto de una señal moduladora seno vs. moduladora onda cuadrada en el dominio de la frecuencia.
 
-        El efecto de una señal moduladora seno vs. moduladora audio en el dominio de la frecuencia.
+- El efecto de una señal moduladora seno vs. moduladora audio en el dominio de la frecuencia.
+
+señal moduladora seno
+
+
+señal moduladora cuadrada
+
+señal moduladora triangular
+
+señal moduladora diente de sierra
+
+señal moduladora de audio
