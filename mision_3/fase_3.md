@@ -8,13 +8,20 @@
 
 - El efecto de una señal moduladora seno vs. moduladora audio en el dominio de la frecuencia.
 
-señal moduladora seno
+## señal moduladora seno
+![texto alternativo](senomod.jpeg)
 
 
-señal moduladora cuadrada
+## señal moduladora cuadrada
+![texto alternativo](cuadradamod.jpeg)
 
-señal moduladora triangular
+## señal moduladora triangular
+![texto alternativo](triamod.jpeg)
 
-señal moduladora diente de sierra
+## señal moduladora diente de sierra
+![texto alternativo](sierramos.jpeg)
 
-señal moduladora de audio
+
+## señal moduladora de audio
+![texto alternativo](audiomod.jpeg)
+
