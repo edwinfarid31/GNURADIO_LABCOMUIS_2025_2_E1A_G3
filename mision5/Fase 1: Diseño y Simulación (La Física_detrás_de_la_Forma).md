@@ -1,4 +1,4 @@
-#Fase 1: Diseño y Simulación (La Física detrás de la Forma)
+## Fase 1: Diseño y Simulación (La Física detrás de la Forma)
 
 Comprensión de la Antena Biquad: A diferencia de la hélice en modo normal, la Biquad es una antena resonante cuyas dimensiones dependen directamente de la longitud de onda (λ). Consiste en dos "cuadrados" (quads) de alambre, donde cada lado del cuadrado mide aproximadamente λ/4. El reflector trasero sirve para dirigir toda la energía hacia adelante, aumentando la ganancia.
 
