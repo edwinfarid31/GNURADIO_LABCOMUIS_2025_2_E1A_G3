@@ -1,4 +1,4 @@
-##Fase 2: Construcción
+## Fase 2: Construcción
 Fabricación Precisa: Utilice las dimensiones finales de la simulación como plano de construcción. La precisión al doblar el alambre y cortar el reflector es clave para el éxito.
 
 Ensamblaje:
