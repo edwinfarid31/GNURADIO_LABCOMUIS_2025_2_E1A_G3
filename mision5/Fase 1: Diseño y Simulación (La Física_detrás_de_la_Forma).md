@@ -44,3 +44,8 @@ Despues de hacer los calculos L= 8.45cm
 
 ### Simulacion S11
 <img width="1600" height="704" alt="image" src="https://github.com/user-attachments/assets/099756c9-9527-43a5-acc8-73527794d95a" />
+
+y los datos suminstrados en la simulacion de antena designer en MATLAB son los siguientes
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/e7546775-cf97-46e5-bd44-26f5c591195c" />
+
+
