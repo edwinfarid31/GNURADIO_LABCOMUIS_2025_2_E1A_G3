@@ -11,3 +11,6 @@ Suelde los dos puntos centrales del Biquad a los terminales del conector SMA (el
 
 Fije el elemento de alambre al reflector usando espaciadores no conductivos para mantener la distancia de "spacing" que fue optimizada en la simulación. La estructura debe ser rígida.
 
+### Resultado 
+Despues de diseñar la antena rse realizo la creacion de la misma dando como resultadfo la siguiente antena.
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/9cb7a11a-5ed7-4def-93b4-d65f73b7d194" />
