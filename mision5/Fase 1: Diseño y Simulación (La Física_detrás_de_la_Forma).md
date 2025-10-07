@@ -62,3 +62,7 @@ ArmLength(m) = 0.0845
 
 <img width="1600" height="704" alt="image" src="https://github.com/user-attachments/assets/62410b0e-3a48-4051-8e3f-3dce3e35b555" />
 
+
+Patron de radiacion 
+<img width="890" height="469" alt="image" src="https://github.com/user-attachments/assets/a760f646-730a-43c8-9b77-570881c107eb" />
+
