@@ -37,3 +37,10 @@ Itere: Ajuste ligeramente estas dos dimensiones y vuelva a simular hasta que el 
 Guarde los resultados: Anote las dimensiones finales optimizadas y guarde las capturas del gráfico S11 y del patrón de radiación, que debe ser claramente direccional (un lóbulo principal hacia adelante).
 Texto de la respuesta Pregunta 1
 
+
+## Desarrollo 
+
+Despues de hacer los calculos L= 8.45cm
+
+### Simulacion S11
+<img width="1600" height="704" alt="image" src="https://github.com/user-attachments/assets/099756c9-9527-43a5-acc8-73527794d95a" />
