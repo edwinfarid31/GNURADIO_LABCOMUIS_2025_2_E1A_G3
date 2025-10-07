@@ -43,9 +43,11 @@ Texto de la respuesta Pregunta 1
 Seleccionamos la frecuencia que deseamos sintonizar en este caso  **915 MHz**.  
 Para calcular la longitud de onda, tenemos que:
 
-\[
-\lambda = \frac{c}{f} = \frac{3 \times 10^8}{0.915 \times 10^9} \approx 0.328\,m
-\]
+
+$$ 
+\lambda = \frac{c}{f} = \frac{3 \times 10^8}{0.915 \times 10^9} \approx 0.328\ 
+$$
+
 
 Para hallar la longitud de lado, dividimos la longitud entre  4 y su valor obtenido de **0.082 m**.
 
@@ -56,7 +58,7 @@ Al simular la antena  en MATLAB:
 
 Como no estamos en la frecuencia seleccionada realizamos los ajustes sabiendo que los parametroa que podemos variar son La longitud de los lados del Biquad y la distancia (spacing) entre el elemento y el reflector.
 
-Al iterar en pequeños intervalos obtuvimos los soguientes resultados:
+Al iterar en pequeños intervalos obtuvimos los siguientes resultados:
 spacing(m) = 0.02
 ArmLength(m) = 0.0845
 
