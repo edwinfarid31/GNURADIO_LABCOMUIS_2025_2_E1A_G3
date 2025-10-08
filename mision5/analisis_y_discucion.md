@@ -6,6 +6,7 @@ Análisis Funcional: Describa lo observado en el analizador de espectro. ¿Fue l
 
 Análisis del Proceso de Diseño: Explique cómo el ajuste de las dimensiones en MATLAB permitió sintonizar la antena.
 
+### Conclusiones:
 Comparación de Resultados:
 Comparación entre S11 Simulado y Medido:
 
