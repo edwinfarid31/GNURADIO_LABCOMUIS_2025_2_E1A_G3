@@ -13,3 +13,5 @@ Como inspector de la ANE, ¿qué acciones recomendarías tomar con base en tus h
 Acción complementaria: Realizar un monitoreo continuo durante diferentes horarios para detectar posibles emisoras que operen intermitentemente o con baja potencia no detectada en esta medición.
 
 Seguimiento: Programar una nueva medición espectrográfica en 30 días para verificar el cumplimiento de las acciones correctivas implementadas.
+### Conclusiones:
+-La clave en la construcción de la antena, ademas de las medidas sean las corrrectas es que cada borde de la antena sea lo mas recta posible ya que esto resulta en desfases irregulares para la frecuencia del ancho de banda de la frecuencia central que se halló de 915 Mhz.
