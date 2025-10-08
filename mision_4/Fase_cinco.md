@@ -15,7 +15,9 @@ Acción complementaria: Realizar un monitoreo continuo durante diferentes horari
 Seguimiento: Programar una nueva medición espectrográfica en 30 días para verificar el cumplimiento de las acciones correctivas implementadas.
 ### Conclusiones:
 -La clave en la construcción de la antena, ademas de las medidas sean las corrrectas es que cada borde de la antena sea lo mas recta posible ya que esto resulta en desfases irregulares para la frecuencia del ancho de banda de la frecuencia central que se halló de 915 Mhz.
+
 -Durante la simulación, la antena estaba diseñada para resonar a una frecuencia de 915 MHz, pero en la práctica, la antena construida resonó a 930 MHz, lo que representó una diferencia significativa de aproximadamente el 1.64%.
+
 -La antena construida presentó una ganancia de 6 dB, lo cual fue cumple a los 6 dB de la antena de referencia utilizada para la comparación.
 ### Recomendaciones clave:
 -Es crucial que las dimensiones físicas de la antena coincidan con las especificaciones de la simulación. Cualquier variación en las dimensiones (como el espaciado o la longitud de lado) puede causar un desajuste significativo en la frecuencia de resonancia y la ganancia.
