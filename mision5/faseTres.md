@@ -37,3 +37,7 @@ Se configura el analizador de espectro alrededor de la frecuencia central de la 
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/1b15b959-3024-4276-9009-17e7d7db7bf2" />
 
+con la antena creada sintonizamos la radio policia nacional obteniendo el siguiente resultado 
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/6a0d30ec-d16d-4636-99a8-9da33193a808" />
+
+
