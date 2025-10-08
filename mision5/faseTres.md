@@ -22,3 +22,18 @@
 
 Capture una imagen que muestre cómo la señal aumenta significativamente cuando se apunta en la dirección correcta, demostrando la directividad del diseño.
 Texto de la respuesta Pregunta 3
+
+## Resultado 
+Conectamos la antena construida previamente al ZVL Network Analyzer para verificar la
+frecuencia que sintoniza. Al hacer conexión, nuestra antena sintonizo a 930 MHz, un valor cercano a los 915 MHz.
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/789886af-b12b-4d72-9ab8-c7c2e7e7895a" />
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/74414eed-3644-46e2-9d72-e832aacc3242" />
+
+### validacion en el analizador de espectro 
+
+Se configura el analizador de espectro alrededor de la frecuencia central de la antena, es decir,
+915 MHz.
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/1b15b959-3024-4276-9009-17e7d7db7bf2" />
+
