@@ -16,3 +16,6 @@ Objetivo Específico 2.3: Combinar (sumar) las tres señales anteriores para for
 Objetivo Específico 2.4: Analizar el espectro de la señal MPX resultante y verificar la correcta ubicación y amplitud relativa de cada uno de sus componentes.
 
 ![Texto alternativo](imagen_2025-10-19_200746772.png)
+
+**Desarrollo en GNU RADIO** 
+![Texto alternativo](2.2.jpeg)
