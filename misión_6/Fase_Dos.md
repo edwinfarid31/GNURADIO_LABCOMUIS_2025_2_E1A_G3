@@ -14,3 +14,5 @@ Crear la señal de diferencia (L-R) y modularla en una subportadora de 38 kHz me
 Objetivo Específico 2.3: Combinar (sumar) las tres señales anteriores para formar la señal MPX final.
 
 Objetivo Específico 2.4: Analizar el espectro de la señal MPX resultante y verificar la correcta ubicación y amplitud relativa de cada uno de sus componentes.
+
+![Texto alternativo](imagen_2025-10-19_200746772.png)
