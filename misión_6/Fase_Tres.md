@@ -10,10 +10,6 @@ Objetivo Específico 3.3: Iniciar la transmisión y utilizar un receptor de radi
 Objetivo Específico 3.4: Validar cualitativamente la calidad del audio recibido y confirmar que el indicador "Stereo" del receptor se activa, lo que prueba la correcta generación y detección del piloto de 19 kHz.
 
 
-[Ver video](video.mp4)
+[🎥 Ver video de la misión 6](https://github.com/edwinfarid31/GNURADIO_LABCOMUIS_2025_2_E1A_G3/blob/main/misión_6/video.mp4)
 
-<video width="600" controls>
-  <source src="video.mp4" type="video/mp4">
-  Tu navegador no soporta video.
-</video>
 
