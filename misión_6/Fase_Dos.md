@@ -19,3 +19,7 @@ Objetivo Específico 2.4: Analizar el espectro de la señal MPX resultante y ver
 
 **Desarrollo en GNU RADIO** 
 ![Texto alternativo](2.2.jpeg)
+
+![Texto alternativo](gnu_2.3.jpeg)
+
+![Texto alternativo](valida.jpeg)
