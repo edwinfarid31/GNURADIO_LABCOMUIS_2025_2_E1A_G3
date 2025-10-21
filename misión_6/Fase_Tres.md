@@ -10,6 +10,8 @@ Objetivo Específico 3.3: Iniciar la transmisión y utilizar un receptor de radi
 Objetivo Específico 3.4: Validar cualitativamente la calidad del audio recibido y confirmar que el indicador "Stereo" del receptor se activa, lo que prueba la correcta generación y detección del piloto de 19 kHz.
 
 
+![Texto alternativo](3.1.jpeg)
+
 [🎬 Ver video en YouTube](https://www.youtube.com/watch?v=uiPDPwrNgUw)
 
 
