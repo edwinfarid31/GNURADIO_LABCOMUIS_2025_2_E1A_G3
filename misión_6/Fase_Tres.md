@@ -12,3 +12,8 @@ Objetivo Específico 3.4: Validar cualitativamente la calidad del audio recibido
 
 [Ver video](video.mp4)
 
+<video width="600" controls>
+  <source src="video.mp4" type="video/mp4">
+  Tu navegador no soporta video.
+</video>
+
