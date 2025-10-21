@@ -17,7 +17,7 @@ Objetivo Específico 2.4: Analizar el espectro de la señal MPX resultante y ver
 
 ![Texto alternativo](imagen_2025-10-19_200746772.png)
 
-**Desarrollo **
+## Desarrollo
 
 En esta parte de la practica  se diseñó y se  produjo un bloque de programación de radio que incluyó un jingle, combinando la voz del locutor creada con ayuda de IA con la cancion elegida , los cuales fueron grabados, editados y mezclados en Audacity para obtener un archivo estéreo en formato .wav. Luego, en GNU Radio, se generaron las señales L+R, L−R y el tono piloto de 19 kHz, modulando la señal de diferencia en una subportadora de 38 kHz y combinándolas para formar la señal MPX. Posteriormente, se implementó la modulación FM con una desviación de ±75 kHz y se transmitió mediante el USRP. Finalmente, se comprobó con un receptor FM que el audio se recibía con buena calidad y que se activaba el indicador estéreo, cumpliendo así todos los objetivos del laboratorio.
 
